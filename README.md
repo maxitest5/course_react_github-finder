@@ -1,4 +1,6 @@
 ### `npx create-react-app course_react_github-finder --use-npm`
+### init tailwind https://tailwindcss.com/docs/guides/create-react-app
+`npm i daisyui`
 
 # Getting Started with Create React App
 
