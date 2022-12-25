@@ -9,6 +9,10 @@ Add settings in vscode
       "javascript": "javascriptreact"
    }
 
+Add file .env with : 
+REACT_APP_GITHUB_TOKEN = "kdjslmkjgdjmldfjkg"
+REACT_APP_GITHUB_URL = "https://api.github.com"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
